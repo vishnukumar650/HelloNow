@@ -6,3 +6,6 @@ hello
 w0rld
 kdjfoekfdsvb
 
+class Stack{
+    pu
+}
