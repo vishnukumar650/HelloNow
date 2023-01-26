@@ -7,5 +7,5 @@ w0rld
 kdjfoekfdsvb
 
 class Stack{
-    pu
+    public static void main(String args[])
 }
